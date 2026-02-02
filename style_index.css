@@ -30,11 +30,11 @@ summary{
 
 .main{
   background-color: #FFFFFF;
-  margin-top: 5%;
-  margin-right: 1%;
-  margin-left: 1%;
-  width: 77%;
-  min-height: 100vh;
+  margin-top: 5vh;
+  margin-right: 1vw;
+  margin-left: 1vw;
+  width: 77vw;
+  min-height: 92vh;
   height: auto;
-  padding: 3%;
+  padding: 3vh 3vw 3vh 3vw;
 }
